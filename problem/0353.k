@@ -35,3 +35,10 @@ Give your answer rounded to 10 digits behind the decimal point in the form a.bcd
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

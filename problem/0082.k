@@ -17,3 +17,10 @@ The minimal path sum in the 5 by 5 matrix below, by starting in any cell in the 
 Find the minimal path sum, in matrix.txt (right click and 'Save Link/Target As...'), a 31K text file containing a 80 by 80 matrix, from the left column to the right column.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

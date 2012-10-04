@@ -25,3 +25,10 @@ Give your answer rounded to 8 places behind the decimal point in the form abc.de
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -7,3 +7,10 @@ Find the sum of all the primes below two million.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

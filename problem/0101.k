@@ -24,3 +24,10 @@ un = 1 n + n2n3 + n4n5 + n6n7 + n8n9 + n10
 Find the sum of FITs for the BOPs.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

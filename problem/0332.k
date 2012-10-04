@@ -17,3 +17,10 @@ For example A(14) is 3.294040 rounded to six decimal places.
 Find  A(r). Give your answer rounded to six decimal places.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

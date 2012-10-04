@@ -33,3 +33,10 @@ There is only one cyclic number for which, the eleven leftmost digits are 000000
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

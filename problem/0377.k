@@ -15,3 +15,10 @@ Give the last 9 digits as your answer.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

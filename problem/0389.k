@@ -6,3 +6,10 @@ An unbiased single 4-sided die is thrown and its value, T, is noted.T unbiased 6
 Find the variance of I, and give your answer rounded to 4 decimal places.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

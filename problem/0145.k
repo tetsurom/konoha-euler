@@ -7,3 +7,10 @@ There are 120 reversible numbers below one-thousand.
 
 How many reversible numbers are there below one-billion (109)?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

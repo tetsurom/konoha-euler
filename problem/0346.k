@@ -12,3 +12,10 @@ Find the sum of all strong repunits below 1012.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

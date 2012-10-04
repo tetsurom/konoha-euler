@@ -9,3 +9,10 @@ The longest sum of consecutive primes below one-thousand that adds to a prime, c
 Which prime, below one-million, can be written as the sum of the most consecutive primes?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

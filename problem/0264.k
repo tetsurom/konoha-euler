@@ -24,3 +24,10 @@ Find all such triangles with a perimeter  105.
 Enter as your answer the sum of their perimeters rounded to four decimal places.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

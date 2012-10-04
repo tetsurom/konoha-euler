@@ -19,3 +19,10 @@ Find S(p) for 5  p  108.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

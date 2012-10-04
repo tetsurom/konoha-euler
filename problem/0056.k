@@ -6,3 +6,10 @@ A googol (10100) is a massive number: one followed by one-hundred zeros; 100100 
 Considering natural numbers of the form, ab, where a, b  100, what is the maximum digital sum?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

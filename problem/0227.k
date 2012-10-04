@@ -10,3 +10,10 @@ The game ends when one player has both dice after they have been rolled and pass
 In a game with 100 players, what is the expected number of turns the game lasts?
 Give your answer rounded to ten significant digits.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

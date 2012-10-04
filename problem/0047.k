@@ -8,3 +8,10 @@ The first three consecutive numbers to have three distinct prime factors are:
 Find the first four consecutive integers to have four distinct primes factors. What is the first of these numbers?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

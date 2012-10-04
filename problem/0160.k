@@ -8,3 +8,10 @@ For example,
 20! = 2432902008176640000 so f(20)=17664
 Find f(1,000,000,000,000)
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

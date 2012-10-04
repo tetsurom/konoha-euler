@@ -10,3 +10,10 @@ Interestingly, 200 is also the first number for which you cannot change any sing
 
 Find the 200th prime-proof sqube containing the contiguous sub-string "200".
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

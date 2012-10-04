@@ -7,3 +7,10 @@ For example, if a = 7 and n = 3, then r = 42: 63 + 83 = 728  42 mod 49. And as n
 For 3 a  1000, find  rmax.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -15,3 +15,10 @@ In short, we write Cost(6) = 35.
 
 What is Cost(109) ?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

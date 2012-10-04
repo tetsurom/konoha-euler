@@ -13,3 +13,10 @@ Find M(2k+1). Give your answer modulo 79.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -51,3 +51,10 @@ Find N(p,q) for p+q  2011.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

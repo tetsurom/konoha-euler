@@ -11,3 +11,10 @@ Let s(x,y,z) = x + y + z.
 Let t = u / v be the sum of all distinct s(x,y,z) for all golden triples (x,y,z) of order 35. All the s(x,y,z) and t  must be in reduced form.
 Find u + v.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

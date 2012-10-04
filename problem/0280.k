@@ -8,3 +8,10 @@ At the start of the walk, a seed is placed on each square of the lower row. When
 What's the expected number of steps until all seeds have been dropped in the top row? 
 Give your answer rounded to 6 decimal places.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

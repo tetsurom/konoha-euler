@@ -21,3 +21,10 @@ We have shown that T(5)=3. You are also given that T(10)=29 and T(1 000)=395253.
 Find .
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

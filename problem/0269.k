@@ -14,3 +14,10 @@ It can be verified that Z(100 000) is 14696.
 What is Z(1016)?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

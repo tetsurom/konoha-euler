@@ -21,3 +21,10 @@ Note: We assume that each licence plate seen is equally likely to have any three
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

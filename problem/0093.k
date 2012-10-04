@@ -13,3 +13,10 @@ Using the set, {1, 2, 3, 4}, it is possible to obtain thirty-one different targe
 Find the set of four distinct digits, a b &lt c d, for which the longest set of consecutive positive integers, 1 to n, can be obtained, giving your answer as a string: abcd.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -12,3 +12,10 @@ Find S(13082761331670030).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

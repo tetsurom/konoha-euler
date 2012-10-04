@@ -18,3 +18,10 @@ Find c for c  120000.
 Note: This problem has been changed recently, please check that you are using the right parameters.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

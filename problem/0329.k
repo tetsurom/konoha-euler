@@ -15,3 +15,10 @@ Given that the frog's starting position is random with the same probability for 
 Give your answer as a fraction p/q in reduced form.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

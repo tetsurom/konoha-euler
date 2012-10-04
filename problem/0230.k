@@ -34,3 +34,10 @@ Find n = 0,1,...,17   10n DA,B((127+19n)7n) .
  
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

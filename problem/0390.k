@@ -12,3 +12,10 @@ S(106)=18018206.
 
 Find S(1010).
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

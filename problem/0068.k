@@ -23,3 +23,10 @@ Using the numbers 1 to 10, and depending on arrangements, it is possible to form
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

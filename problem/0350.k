@@ -18,3 +18,10 @@ Find f(106, 1012, 1018) mod 1014.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

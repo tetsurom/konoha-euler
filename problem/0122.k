@@ -11,3 +11,10 @@ We shall define m(k) to be the minimum number of multiplications to compute nk; 
 For 1 k  200, find  m(k).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

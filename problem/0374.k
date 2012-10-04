@@ -23,3 +23,10 @@ Find f(n)·m(n) for 1 n  1014.
 Give your answer modulo 982451653, the 50 millionth prime.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

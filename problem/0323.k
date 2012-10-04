@@ -10,3 +10,10 @@ It can be seen that eventually there will be an index N such that xi = 232 -1 (a
 Find the expected value of N. 
 Give your answer rounded to 10 digits after the decimal point.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

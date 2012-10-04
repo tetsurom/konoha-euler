@@ -25,3 +25,10 @@ Similarly, C(100) = 400 and C(n) = 17575.
 
 Find C(n).
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

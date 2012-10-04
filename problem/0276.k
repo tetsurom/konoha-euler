@@ -11,3 +11,10 @@ How many primitive integer sided triangles exist with a perimeter not exceeding 
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

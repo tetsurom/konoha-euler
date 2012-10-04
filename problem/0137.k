@@ -26,3 +26,10 @@ We shall call AF(x) a golden nugget if x is rational, because they become increa
 Find the 15th golden nugget.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

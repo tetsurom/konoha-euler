@@ -10,3 +10,10 @@ The result is Pascal's pyramid and the numbers at each level n are the coefficie
 (x + y + z)n.
 How many coefficients in the expansion of (x + y + z)200000 are multiples of 1012?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

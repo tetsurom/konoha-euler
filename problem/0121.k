@@ -7,3 +7,10 @@ If the game is played for four turns, the probability of a player winning is exa
 Find the maximum prize fund that should be allocated to a single game in which fifteen turns are played.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

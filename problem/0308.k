@@ -41,3 +41,10 @@ It can be shown that all the powers of 2 in this sequence have prime exponents a
 
 If someone uses the above Fractran program to solve Project Euler Problem 7 (find the 10001st prime), how many iterations would be needed until the program produces 210001st prime ?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

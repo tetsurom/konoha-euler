@@ -6,3 +6,10 @@ When a bell is rung, each flea jumps to an adjacent square at random (usually 4 
 
 What is the expected number of unoccupied squares after 50 rings of the bell? Give your answer rounded to six decimal places.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

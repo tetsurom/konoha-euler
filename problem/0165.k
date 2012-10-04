@@ -21,3 +21,10 @@ The first four numbers computed according to the above generator should be: 27, 
 How many distinct true intersection points are found among the 5000 line segments?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

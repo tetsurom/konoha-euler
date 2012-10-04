@@ -11,3 +11,10 @@ for every divisor d of n, d+n/d is prime.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

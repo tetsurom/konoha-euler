@@ -10,3 +10,10 @@ It can be shown that 27 does not divide any terms of this sequence.In fact, 27 i
 
 Find the 124th odd number that does not divide any terms of the above sequence.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

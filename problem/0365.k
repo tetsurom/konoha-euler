@@ -15,3 +15,10 @@ Calculate M(1018,109,p*q*r) for 1000pqr5000 and p,q,r prime.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

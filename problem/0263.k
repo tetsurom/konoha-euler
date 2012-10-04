@@ -26,3 +26,10 @@ Find the sum of the first four engineers’ paradises.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

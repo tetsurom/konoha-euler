@@ -23,3 +23,10 @@ It can be shown that there exists at least one rectangle, whose sides are parall
 Find the smallest area possible for such a bounding rectangle, and give your answer rounded to 10 decimal places.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

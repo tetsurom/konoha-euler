@@ -20,3 +20,10 @@ For how many positive integers n  230 does X(n,2n,3n) = 0 ?
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

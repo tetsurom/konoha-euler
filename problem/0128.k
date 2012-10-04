@@ -14,3 +14,10 @@ If all of the tiles for which PD(n) = 3 are listed in ascending order to form a 
 Find the 2000th tile in this sequence.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

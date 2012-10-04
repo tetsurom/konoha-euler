@@ -10,3 +10,10 @@ Counting any reflections or rotations as distinct, we call C(N) the number of wa
 
 What is C(30) mod 108 ?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

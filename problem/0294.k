@@ -17,3 +17,10 @@ Find S(1112) and give your answer mod 109.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

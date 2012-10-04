@@ -9,3 +9,10 @@ You are given that T(109, 107-10) = 989697000.
 Find T(1018, 1012-10).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

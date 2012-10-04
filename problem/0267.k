@@ -9,3 +9,10 @@ Choosing f to maximize your chances of having at least £1,000,000,000 after 1,0
 All computations are assumed to be exact (no rounding), but give your answer rounded to 12 digits behind the decimal point in the form 0.abcdefghijkl.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

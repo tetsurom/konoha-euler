@@ -38,3 +38,10 @@ Find L(100 000).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

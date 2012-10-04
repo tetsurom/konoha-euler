@@ -13,3 +13,10 @@ Further, it can be verified that g(20) is 267 and  sg(i) for 1 i  20 is 156.
 
 What is  sg(i) for 1 i  150?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

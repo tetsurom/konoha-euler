@@ -24,3 +24,10 @@ In the following table are listed some values of P(m)
 
 Find the smallest m for which P(m)  1/12345
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

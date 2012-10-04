@@ -15,3 +15,10 @@ Give your answer rounded to four decimal places.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

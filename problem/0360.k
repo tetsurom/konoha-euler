@@ -19,3 +19,10 @@ Find S(1010).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

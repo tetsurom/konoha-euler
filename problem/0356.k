@@ -12,3 +12,10 @@ Find the last eight digits of.
 Note:  represents the floor function.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -10,3 +10,10 @@ For 1  n  9, the sum of the digits of all the n-digit steady squares in the base
 Find the sum of the digits of all the n-digit steady squares in the base 14 numbering system for
 1  n  10000 (decimal) and give your answer in the base 14 system using lower case letters where necessary.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

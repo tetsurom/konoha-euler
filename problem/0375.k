@@ -25,3 +25,10 @@ We can verify that M(10) = 432256955 and M(10 000) = 3264567774119.
 Find M(2 000 000 000).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

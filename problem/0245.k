@@ -22,3 +22,10 @@ Find the sum of all composite integers 1 n  21011, for which C(n) is a unit frac
  Note: the upper limit has been changed recently. Check out that you use the right upper limit.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

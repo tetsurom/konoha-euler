@@ -18,3 +18,10 @@ Note: This problem has been changed recently, please check that you are using th
  
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

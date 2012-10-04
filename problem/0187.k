@@ -8,3 +8,10 @@ There are ten composites below thirty containing precisely two, not necessarily 
 
 How many composite integers, n  108, have precisely two, not necessarily distinct, prime factors?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

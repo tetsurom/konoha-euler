@@ -22,3 +22,10 @@ In fact, 630 is the 6th Alexandrian integer,  the first 6 Alexandrian integers b
 
 Find the 150000th Alexandrian integer.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

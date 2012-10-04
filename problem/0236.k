@@ -33,3 +33,10 @@ There are thirty-five m1 for which this surprising result could have occurred, t
 What's the largest possible value of m?
 Give your answer as a fraction reduced to its lowest terms, in the form u/v.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

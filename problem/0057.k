@@ -12,3 +12,10 @@ The next three expansions are 99/70, 239/169, and 577/408, but the eighth expans
 In the first one-thousand expansions, how many fractions contain a numerator with more digits than denominator?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

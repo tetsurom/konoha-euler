@@ -8,3 +8,10 @@ So the sum of the terms in the prime factorisation of 10C3 is 14.
 Find the sum of the terms in the prime factorisation of 20000000C15000000.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -8,3 +8,10 @@ If dn represents the nth digit of the fractional part, find the value of the fol
 d1d10d100d1000d10000d100000d1000000
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

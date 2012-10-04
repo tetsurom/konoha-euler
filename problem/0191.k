@@ -15,3 +15,10 @@ LAOO LAOA LAAO
 
 How many "prize" strings exist over a 30-day period?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

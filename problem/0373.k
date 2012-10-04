@@ -15,3 +15,10 @@ Find S(107).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

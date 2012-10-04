@@ -56,3 +56,10 @@ For d = 0 to 9, the sum of all S(4, d) is 273700.
 Find the sum of all S(10, d).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

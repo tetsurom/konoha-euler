@@ -11,3 +11,10 @@ In fact, as the complete set of minimal product-sum numbers for 2k12 is {4, 6, 8
 What is the sum of all the minimal product-sum numbers for 2k12000?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

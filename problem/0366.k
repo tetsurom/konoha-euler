@@ -28,3 +28,10 @@ Find  M(n) for n1018.
 Give your answer modulo 108.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

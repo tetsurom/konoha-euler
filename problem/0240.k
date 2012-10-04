@@ -14,3 +14,10 @@ D1,D2,D3,D4,D5 = 6,6,3,3,3
 
 In how many ways can twenty 12-sided dice (sides numbered 1 to 12) be rolled so that the top ten sum to 70?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

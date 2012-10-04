@@ -7,3 +7,10 @@ You are given that a2 = 512 and a10 = 614656.
 Find a30.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

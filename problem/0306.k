@@ -20,3 +20,10 @@ Similarly, for 1 n  50, there are 40 values of n for which the first player can 
 
 For 1 n  1 000 000, how many values of n are there for which the first player can force a win?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

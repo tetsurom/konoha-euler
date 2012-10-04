@@ -9,3 +9,10 @@ Since this chain returns to its starting point, it is called an amicable chain.
 Find the smallest member of the longest amicable chain with no element exceeding one million.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

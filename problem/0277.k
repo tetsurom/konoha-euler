@@ -37,3 +37,10 @@ What is the smallest a1 1015 that begins with the sequence "UDDDUdddDDUDDddDdDdd
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -17,3 +17,10 @@ The combined volume of the first 100 cuboids, C1,...,C100, is 723581599.
 
 What is the combined volume of all 50000 cuboids, C1,...,C50000 ?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

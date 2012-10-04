@@ -17,3 +17,10 @@ Find D(1010). Give as your answer the first nine digits followed by the last nin
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -15,3 +15,10 @@ Find S(1 000 000) mod 1018.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

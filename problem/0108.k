@@ -30,3 +30,10 @@ For n = 4 there are exactly three distinct solutions:
 What is the least value of n for which the number of distinct solutions exceeds one-thousand?
 NOTE: This problem is an easier version of problem 110; it is strongly advised that you solve this one first.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

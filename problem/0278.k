@@ -15,3 +15,10 @@ In fact, 23 is the largest impossible value of b for a1 = 5 and a2 = 7. We there
 Find f(p*q,p*r,q*r), where p, q and r are prime numbers and p &lt q r  5000.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -18,3 +18,10 @@ the pixel with coordinates x = 0, y = 0 corresponds to the bottom left p
 if (x - 2N-1)2 + (y - 2N-1)2  22N-2 then the pixel is black,
 otherwise the pixel is white.What is the length of the minimal sequence describing D24 ?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

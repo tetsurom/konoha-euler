@@ -13,3 +13,10 @@ Also, for 0n106, ∑ z(n) = 7894453.
 
 Find ∑ z(n) for 0n1017.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

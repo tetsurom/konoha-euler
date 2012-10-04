@@ -11,3 +11,10 @@ Find R(2·106, 109).
 Note:  represents the floor function.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

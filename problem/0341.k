@@ -13,3 +13,10 @@ Find ΣG(n3) for 1 n  106.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -59,3 +59,10 @@ Consider now 1500 adjacent bowls containing b1, b2,..., b1500 beans respectively
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

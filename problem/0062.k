@@ -6,3 +6,10 @@ The cube, 41063625 (3453), can be permuted to produce two other cubes: 56623104 
 Find the smallest cube for which exactly five permutations of its digits are cube.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

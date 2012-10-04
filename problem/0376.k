@@ -41,3 +41,10 @@ For N = 7 we find there are 9780 such sets.
 How many are there for N = 30 ?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

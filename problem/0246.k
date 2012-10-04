@@ -24,3 +24,10 @@ For how many lattice points P is angle RPS greater than 45 degrees?
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

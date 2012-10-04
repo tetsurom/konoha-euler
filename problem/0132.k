@@ -6,3 +6,10 @@ For example, R(10) = 1111111111 = 11412719091, and the sum of these prime factor
 Find the sum of the first forty prime factors of R(109).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

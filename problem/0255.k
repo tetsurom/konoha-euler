@@ -27,3 +27,10 @@ Give your answer rounded to 10 decimal places.
 Note: The symbols x and x represent the floor function and ceiling function respectively.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -8,3 +8,10 @@ Let f(n) be the number of ways to choose n cards with a 4 card subset that is a 
 Find f(n)  for 4 n  13.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

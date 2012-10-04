@@ -5,3 +5,10 @@ Using all of the digits 1 through 9 and concatenating them freely to form decima
 How many distinct sets containing each of the digits one through nine exactly once contain only prime elements?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

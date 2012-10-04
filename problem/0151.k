@@ -10,3 +10,10 @@ At the beginning of each subsequent batch, he takes from the envelope one sheet 
 Excluding the first and last batch of the week, find the expected number of times (during each week) that the foreman finds a single sheet of paper in the envelope.
 Give your answer rounded to six decimal places using the format x.xxxxxx .
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

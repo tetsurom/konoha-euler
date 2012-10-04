@@ -18,3 +18,10 @@ We will call a right angled triangle super-perfect if
 How many perfect right-angled triangles with c1016 exist that are not super-perfect?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

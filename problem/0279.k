@@ -7,3 +7,10 @@ How many triangles are there with integral sides, at least one integral angle (m
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

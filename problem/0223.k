@@ -8,3 +8,10 @@ How many barely acute triangles are there with perimeter  25,000,000?
  
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

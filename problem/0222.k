@@ -5,3 +5,10 @@ What is the length of the shortest pipe, of internal radius 50mm, that can fully
 
 Give your answer in micrometres (10-6 m) rounded to the nearest integer.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

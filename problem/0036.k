@@ -7,3 +7,10 @@ Find the sum of all numbers, less than one million, which are palindromic in bas
 (Please note that the palindromic number, in either base, may not include leading zeros.)
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

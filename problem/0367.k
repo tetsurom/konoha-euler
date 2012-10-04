@@ -21,3 +21,10 @@ Averaged over all 11! input sequences, what is the expected number of shuffles t
 Give your answer rounded to the nearest integer.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -29,3 +29,10 @@ It can also be verified that ΣG(n) = 2517 for 1 n  8.
 Find the last 9 digits of ΣG(n) for 1 n  16.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

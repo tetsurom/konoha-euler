@@ -14,3 +14,10 @@ For example, B(3) = 6, B(21) = 12 and B(111 111 111) = 54.
 
 Find the number of L  5·1011 such that B(L) = 450.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -28,3 +28,10 @@ find all shortest ways to reach configuration (T).
 
 What is the sum of all checksums for the paths having the minimal length?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

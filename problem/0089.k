@@ -15,3 +15,10 @@ Find the number of characters saved by writing each of these in their minimal fo
 Note: You can assume that all the Roman numerals in the file contain no more than four consecutive identical units.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -9,3 +9,10 @@ We shall call a real number x ambiguous, if there is at least one denominator bo
 How many ambiguous numbers x = p/q,
 0 x  1/100, are there whose denominator q does not exceed 108?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

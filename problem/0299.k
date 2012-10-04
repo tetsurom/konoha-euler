@@ -16,3 +16,10 @@ If b+d  100, there are 92 distinct triplets (a,b,d) such that point P exists.
 If b+d  100 000, there are 320471 distinct triplets (a,b,d) such that point P exists.
 If b+d  100 000 000, how many distinct triplets (a,b,d) are there such that point P exists?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

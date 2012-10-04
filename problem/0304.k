@@ -24,3 +24,10 @@ Give your answer mod 1234567891011.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

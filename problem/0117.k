@@ -84,3 +84,10 @@ Using a combination of black square tiles and oblong tiles chosen from: red tile
 How many ways can a row measuring fifty units in length be tiled?
 NOTE: This is related to problem 116.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

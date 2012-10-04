@@ -13,3 +13,10 @@ Find the number of losing positions for the next player if 0abc100 000.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

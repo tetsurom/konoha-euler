@@ -17,3 +17,10 @@ Find f(3k) for 1k13.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

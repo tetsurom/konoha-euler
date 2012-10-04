@@ -28,3 +28,10 @@ The "sum of a sub-triangle" is defined as the sum of all the elements it contain
 
 Find the smallest possible sub-triangle sum.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

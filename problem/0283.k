@@ -12,3 +12,10 @@ Find the sum of the perimeters of all integer sided triangles for which the area
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

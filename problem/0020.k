@@ -6,3 +6,10 @@ For example, 10! = 10  9  ...  3  2  1 = 3628800,and the sum of the digits in th
 Find the sum of the digits in the number 100!
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

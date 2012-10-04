@@ -22,3 +22,10 @@ Give as your answer the area occupied by the red cells rounded to 10 digits behi
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

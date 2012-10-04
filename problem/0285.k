@@ -12,3 +12,10 @@ It can be shown that if he plays 10 turns with k = 1, k = 2, ..., k =�
 
 If he plays 105 turns with k = 1, k = 2, k = 3, ..., k = 105, what is the expected value of his total score, rounded to five decimal places?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

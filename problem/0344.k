@@ -25,3 +25,10 @@ Find W(1 000 000, 100) modulo the semiprime 1000 036 000 099 (= 1 000 003 · 1 0
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

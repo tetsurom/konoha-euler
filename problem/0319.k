@@ -22,3 +22,10 @@ Find t(1010) and give your answer modulo 109.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

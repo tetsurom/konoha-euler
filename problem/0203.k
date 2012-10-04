@@ -16,3 +16,10 @@ The sum of the distinct squarefree numbers in the first eight rows is 105.
 
 Find the sum of the distinct squarefree numbers in the first 51 rows of Pascal's triangle.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

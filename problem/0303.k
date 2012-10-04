@@ -10,3 +10,10 @@ Find .
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

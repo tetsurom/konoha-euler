@@ -10,3 +10,10 @@ The smallest number expressible as the sum of a prime square, prime cube, and pr
 How many numbers below fifty million can be expressed as the sum of a prime square, prime cube, and prime fourth power?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

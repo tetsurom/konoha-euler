@@ -76,3 +76,10 @@ Assuming that colours cannot be mixed there are 7 + 3 + 2 = 12 ways of replacing
 How many different ways can the black tiles in a row measuring fifty units in length be replaced if colours cannot be mixed and at least one coloured tile must be used?
 NOTE: This is related to problem 117.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

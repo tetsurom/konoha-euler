@@ -13,3 +13,10 @@ Find Co(200000).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -28,3 +28,10 @@ For example, f(5) = 7, f(10) = 501 and f(25) = 18635853.
 Find the last 9 digits of f(1018).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

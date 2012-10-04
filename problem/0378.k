@@ -25,3 +25,10 @@ Give the last 18 digits of your answer.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

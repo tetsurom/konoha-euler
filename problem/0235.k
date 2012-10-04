@@ -15,3 +15,10 @@ Give your answer rounded to 12 places behind the decimal point.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -12,3 +12,10 @@ Reading this binary number from the most significant bit to the least significan
 Find the Shortened Binary Expansion of the smallest n for which f(n)/f(n-1)=123456789/987654321.
 Give your answer as comma separated integers, without any whitespaces.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

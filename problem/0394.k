@@ -23,3 +23,10 @@ Find E(40) rounded to 10 decimal places behind the decimal point.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

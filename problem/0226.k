@@ -13,3 +13,10 @@ Let C be the circle with centre (¼,&frac12) and radius ¼, shown in black in th
 What area under the blancmange curve is enclosed by C?Give your answer rounded to eight decimal places in the form 0.abcdefgh
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

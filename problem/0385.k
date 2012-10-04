@@ -30,3 +30,10 @@ Find A(1 000 000 000).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -16,3 +16,10 @@ Calculate W(32,10).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

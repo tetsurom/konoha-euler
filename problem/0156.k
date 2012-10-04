@@ -35,3 +35,10 @@ Find  s(d) for 1  d  9.
 Note: if, for some n, f(n,d)=n
  for more than one value of d this value of n is counted again for every value of d for which f(n,d)=n.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

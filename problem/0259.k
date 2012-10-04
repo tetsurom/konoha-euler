@@ -13,3 +13,10 @@ For example, 42 is reachable, since (1/23) * ((4*5)-6) * (78-9) = 42.
 
 What is the sum of all positive reachable integers?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

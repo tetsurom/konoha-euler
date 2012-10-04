@@ -20,3 +20,10 @@ Assuming that H and P elements are equally likely to occur in any position along
 What is the average number of H-H contact points in an optimal folding of a random protein string of length 15?
 Give your answer using as many decimal places as necessary for an exact result.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -76,3 +76,10 @@ However, if we check the first one hundred rows, we will find that only 2361 of 
 
 Find the number of entries which are not divisible by 7 in the first one billion (109) rows of Pascal's triangle.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

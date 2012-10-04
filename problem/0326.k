@@ -25,3 +25,10 @@ Find f(1012,106).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

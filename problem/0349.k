@@ -11,3 +11,10 @@ Starting with a grid that is entirely white, how many squares are black after 10
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

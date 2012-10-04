@@ -10,3 +10,10 @@ Pythagorean polygons should be considered distinct as long as none is a translat
 You are given that P(4) = 1, P(30) = 3655 and P(60) = 891045.
 Find P(120).
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

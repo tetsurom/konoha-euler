@@ -16,3 +16,10 @@ Let us define the perfection quotient of a positive integer asp(n)= 
 Find the sum of all positive integers n  1018 for which p(n) has the form k + 1⁄2, where k is an integer.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

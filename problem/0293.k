@@ -20,3 +20,10 @@ Find the sum of all distinct pseudo-Fortunate numbers for admissible numbers N l
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

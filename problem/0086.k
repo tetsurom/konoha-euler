@@ -9,3 +9,10 @@ By considering all cuboid rooms with integer dimensions, up to a maximum size of
 Find the least value of M such that the number of solutions first exceeds one million.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

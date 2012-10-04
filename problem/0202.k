@@ -12,3 +12,10 @@ There are 80840 ways in which a laser beam may enter vertex C, bounce off 100000
 
 In how many ways can a laser beam enter at vertex C, bounce off 12017639147 surfaces, then exit through the same vertex?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

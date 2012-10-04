@@ -10,3 +10,10 @@ Thus, C(91)=8.
 
 Find the sum of the positive numbers n1011 for which C(n)=242.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

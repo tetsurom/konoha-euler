@@ -14,3 +14,10 @@ whereas when connecting them in series, the overall capacitance is given by:
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

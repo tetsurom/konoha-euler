@@ -12,3 +12,10 @@ Given that the robot starts facing North, how many journeys of 70 arcs in length
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

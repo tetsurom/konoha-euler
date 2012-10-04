@@ -7,3 +7,10 @@ In fact there are twenty-five values of n below one hundred for which the equati
 How many values of n less than fifty million have exactly one solution?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

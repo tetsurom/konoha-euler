@@ -25,3 +25,10 @@ Also f(1) = 1, f(2) = 2, f(3) = 1 and Σf(k3) = 118937 for 1 k  100.
 Find Σf(k3) for 1 k  2106.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

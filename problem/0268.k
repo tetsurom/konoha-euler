@@ -7,3 +7,10 @@ Find how many positive integers less than 1016 are divisible by at least four di
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -40,3 +40,10 @@ Based on the following guesses,
 
 Find the unique 16-digit secret sequence.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

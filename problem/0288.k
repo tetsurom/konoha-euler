@@ -23,3 +23,10 @@ Find NF(61,107) mod 6110
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

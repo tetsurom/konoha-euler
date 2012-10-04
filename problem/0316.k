@@ -17,3 +17,10 @@ Given that , find
 
 Note:  represents the floor function.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

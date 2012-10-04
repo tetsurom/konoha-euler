@@ -29,3 +29,10 @@ We can also verify that A100 = 3251 and A1000 = 80852364498.
 Find the last 9 digits of .
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

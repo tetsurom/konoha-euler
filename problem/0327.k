@@ -26,3 +26,10 @@ Find ΣM(C,30) for 3 C  40.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

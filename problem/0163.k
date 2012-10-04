@@ -11,3 +11,10 @@ T(2) = 104
 Find T(36).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

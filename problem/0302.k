@@ -28,3 +28,10 @@ How many Strong Achilles numbers are there below 1018?
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

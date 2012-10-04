@@ -19,3 +19,10 @@ The terms of s are then arranged in a 20002000 table, using the first 2000 numbe
 
 Finally, find the greatest sum of (any number of) adjacent entries in any direction (horizontal, vertical, diagonal or anti-diagonal).
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

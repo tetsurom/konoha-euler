@@ -32,3 +32,10 @@ Given Σ(M(n))3 = 8150 for 1 n  20.
 Find Σ(M(n))3 for 1 n  1000.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

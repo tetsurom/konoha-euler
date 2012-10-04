@@ -14,3 +14,10 @@ x XOR y000011101110How many 6-input binary truth tables, τ, satisfy the formula
 for all 6-bit inputs (a, b, c, d, e, f)?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

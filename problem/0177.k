@@ -8,3 +8,10 @@ We call such a quadrilateral for which all eight corner angles have integer valu
 What is the total number of non-similar integer angled quadrilaterals?
 Note: In your calculations you may assume that a calculated angle is integral if it is within a tolerance of 10-9 of an integer value.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

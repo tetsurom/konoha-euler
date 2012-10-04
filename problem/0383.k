@@ -15,3 +15,10 @@ It can be verified that T5(103) = 68 and T5(109) = 2408210.
 Find T5(1018).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

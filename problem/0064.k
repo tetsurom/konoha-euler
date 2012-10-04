@@ -117,3 +117,10 @@ The first ten continued fraction representations of (irrational) square roots ar
 Exactly four continued fractions, for N  13, have an odd period.
 How many continued fractions for N  10000 have an odd period?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

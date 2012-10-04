@@ -6,3 +6,10 @@ For example (with q = 100000007) :f(2) = 229,f(4) = 117805,f(10) mod q = 9614936
 
 Find f(1010000) mod 100000007.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

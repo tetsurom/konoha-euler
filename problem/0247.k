@@ -21,3 +21,10 @@ What is the largest n for which the index of Sn is (3,3)?
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

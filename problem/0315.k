@@ -52,3 +52,10 @@ The two clocks are fed all the prime numbers between A = 107 and B = 2107.
 Find the difference between the total number of transitions needed by Sam's clock and that needed by Max's one.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

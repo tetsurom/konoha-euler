@@ -33,3 +33,10 @@ By solving all fifty puzzles find the sum of the 3-digit numbers found in the to
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

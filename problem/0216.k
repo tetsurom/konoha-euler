@@ -10,3 +10,10 @@ How many numbers t(n) are prime for n  50,000,000 ?
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

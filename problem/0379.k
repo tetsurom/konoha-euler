@@ -21,3 +21,10 @@ Find g(1012).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -6,3 +6,10 @@ However, in 2004 there was found a massive non-Mersenne prime which contains 2,3
 Find the last ten digits of this prime number.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

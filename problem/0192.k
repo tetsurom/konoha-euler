@@ -10,3 +10,10 @@ For example, the best approximation to 13 for the denominator bound 20 is 18/5 a
 
 Find the sum of all denominators of the best approximations to n for the denominator bound 1012, where n is not a perfect square and 1 n  100000.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

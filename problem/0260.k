@@ -22,3 +22,10 @@ We can verify that Σ(xi+yi+zi) = 173895 for these.
 Find Σ(xi+yi+zi) where (xi,yi,zi) ranges over the losing configurations
 with xi yi zi 1000.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

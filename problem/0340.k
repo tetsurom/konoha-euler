@@ -22,3 +22,10 @@ Find the last 9 digits of S(217, 721, 127).
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

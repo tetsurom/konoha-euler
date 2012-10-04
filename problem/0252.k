@@ -42,3 +42,10 @@ What is the maximum area for a convex hole on the set containing the first 500 p
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

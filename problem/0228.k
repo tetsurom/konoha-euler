@@ -25,3 +25,10 @@ For example, the sum of S3 and S4 is the six-sided shape shown in pink below:
 
 How many sides does S1864 + S1865 + … + S1909 have?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

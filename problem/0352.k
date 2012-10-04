@@ -43,3 +43,10 @@ Give your answer rounded to six decimal places.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

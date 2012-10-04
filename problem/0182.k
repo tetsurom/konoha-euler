@@ -17,3 +17,10 @@ It's important that the number of unconcealed messages is at a minimum.
 Choose p=1009 and q=3643.
 Find the sum of all values of e, 1eφ(1009,3643) and gcd(e,φ)=1, so that the number of unconcealed messages for this value of e is at a minimum.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

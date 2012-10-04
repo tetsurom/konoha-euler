@@ -16,3 +16,10 @@ Find PSR(p) mod 1016.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

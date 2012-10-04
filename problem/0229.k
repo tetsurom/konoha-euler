@@ -21,3 +21,10 @@ There are 75373 such numbers that do not exceed 107.
 
 How many such numbers are there that do not exceed 2109?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

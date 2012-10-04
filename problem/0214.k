@@ -25,3 +25,10 @@ What is the sum of all primes less than 40000000 which generate a chain of lengt
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

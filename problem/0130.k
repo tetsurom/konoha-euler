@@ -9,3 +9,10 @@ However, there are rare composite values for which this is also true; the first 
 Find the sum of the first twenty-five composite values of n for whichGCD(n, 10) = 1 and n  1 is divisible by A(n).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

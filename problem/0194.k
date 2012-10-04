@@ -13,3 +13,10 @@ For example, N(1,0,3) = 24, N(0,2,4) = 92928 and N(2,2,3) = 20736.
 
 Find the last 8 digits of N(25,75,1984).
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

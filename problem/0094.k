@@ -6,3 +6,10 @@ We shall define an almost equilateral triangle to be a triangle for which two si
 Find the sum of the perimeters of all almost equilateral triangles with integral side lengths and area and whose perimeters do not exceed one billion (1,000,000,000).
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

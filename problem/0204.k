@@ -10,3 +10,10 @@ Hence the Hamming numbers are the generalised Hamming numbers of type 5.
 
 How many generalised Hamming numbers of type 100 are there which don't exceed 109?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

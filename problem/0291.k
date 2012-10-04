@@ -10,3 +10,10 @@ Find how many Panaitopol primes are less than 51015.
 
   
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

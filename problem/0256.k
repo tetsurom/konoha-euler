@@ -31,3 +31,10 @@ Find the smallest room-size s for which T(s) = 200.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

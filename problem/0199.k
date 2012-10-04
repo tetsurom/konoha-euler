@@ -12,3 +12,10 @@ What fraction of the area is not covered by circles after 10 iterations?
 Give your answer rounded to eight decimal places using the format x.xxxxxxxx .
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

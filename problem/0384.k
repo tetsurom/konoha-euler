@@ -27,3 +27,10 @@ Define GF(t)=g(F(t),F(t-1)).
 
 Find ΣGF(t) for 2t45.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

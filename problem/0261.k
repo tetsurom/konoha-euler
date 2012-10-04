@@ -12,3 +12,10 @@ Some small square-pivots are
 24: 212 + 222 + 232 + 242 = 252 + 262 + 272
 110: 1082 + 1092 + 1102 = 1332 + 1342Find the sum of all distinct square-pivots  1010.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

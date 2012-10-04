@@ -47,3 +47,10 @@ For divisors with positive real parts, then, we have: .
 For 1 n  105,  s(n)=17924657155.
 What is  s(n) for 1 n  108?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

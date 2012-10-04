@@ -47,3 +47,10 @@ Find A(109) + B(109) and give your answer mod 77 777 777.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

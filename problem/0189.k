@@ -16,3 +16,10 @@ A colouring C' which is obtained from a colouring C by rotation or reflection is
 How many distinct valid colourings are there for the above configuration?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

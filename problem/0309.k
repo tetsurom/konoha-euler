@@ -14,3 +14,10 @@ In fact, for integer values x, y, h and 0 x y x,y,h) producing integer solutions
 For integer values x, y, h and 0 x y x,y,h) produce integer solutions for w?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

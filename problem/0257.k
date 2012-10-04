@@ -22,3 +22,10 @@ How many triangles ABC with perimeter100,000,000 exist so that the ratio area(AB
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

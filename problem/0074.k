@@ -16,3 +16,10 @@ Starting with 69 produces a chain of five non-repeating terms, but the longest n
 How many chains, with a starting number below one million, contain exactly sixty non-repeating terms?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

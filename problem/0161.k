@@ -17,3 +17,10 @@ If we consider tilings that can be obtained by reflection or rotation from anoth
 
 In how many ways can a 9 by 12 grid be tiled in this way by triominoes?
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

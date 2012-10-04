@@ -69,3 +69,10 @@ Give your answer rounded to 10 digits behind the decimal point.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

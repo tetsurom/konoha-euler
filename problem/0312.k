@@ -24,3 +24,10 @@ Find C(C(C(10 000))) mod 138.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

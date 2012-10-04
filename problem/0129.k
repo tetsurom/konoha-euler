@@ -8,3 +8,10 @@ The least value of n for which A(n) first exceeds ten is 17.
 Find the least value of n for which A(n) first exceeds one-million.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

@@ -9,3 +9,10 @@ A pandigital number  contains every decimal digit from 0 to 9 at least once.
 How many pandigital step numbers less than 1040 are there?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

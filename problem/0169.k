@@ -10,3 +10,10 @@ For example, f(10)=5 since there are five different ways to express 10:
 What is f(1025)?
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

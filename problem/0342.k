@@ -16,3 +16,10 @@ Find the sum of all numbers n, 1 &lt n  1010 such that φ(n2) is a cube.
 
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

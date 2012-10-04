@@ -11,3 +11,10 @@ By applying this "rule" we would expect the optimum set for n = 6 to be A = {11,
 Given that A is an optimum special sum set for n = 7, find its set string.
 NOTE: This problem is related to problems 105 and 106.
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();

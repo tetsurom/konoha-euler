@@ -19,3 +19,10 @@ For example, ΣD(N) for 5  N  100 is 2438.
 Find ΣD(N) for 5  N  10000.
 
 */
+import("konoha");
+
+void main() {
+
+}
+
+main();
