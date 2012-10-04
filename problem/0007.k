@@ -24,7 +24,7 @@ void main() {
 	}
 
 	if(i == j) {
-	    System.p(i);
+//	    System.p(i);
 	    count += 1;
 	}
 
