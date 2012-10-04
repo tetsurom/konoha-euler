@@ -7,10 +7,31 @@ Find the sum of all the primes below two million.
 
 
 */
-import("konoha");
+import("konoha.assign");
+import("konoha.while");
+import("konoha.break");
 
 void main() {
+    int sum = 2, i = 3, j = 2;
 
+    while(i <= 2000000) {
+//    while(i <= 10) {
+	while(i != j) {
+	    if(i % j == 0) {
+		break;
+	    }
+	    j += 1;
+	}
+
+	if(i == j) {
+//	    System.p(i);
+	    sum += i;
+	}
+
+        i += 1;
+	j = 2;
+    }
+    System.p(sum);
 }
 
 main();
