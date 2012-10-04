@@ -7,8 +7,23 @@ What is the smallest positive number that is evenly divisible by all of the numb
 */
 import("konoha");
 
-void main() {
+boolean isDivide(int num) {
+	int i = 3;
+	while(i<20) {
+		if(num % i != 0) {
+			return false;
+		}
+		i += 1;
+	}
+	return true;
+}
 
+void main() {
+	int ans = 2520;
+	while(!isDivide(ans)) {
+		ans += 20;
+	}
+	System.p(ans);
 }
 
 main();
