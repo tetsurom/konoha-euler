@@ -9,8 +9,29 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000.Find the
 */
 import("konoha");
 
-void main() {
+boolean check(int a,int b,int c) {
+	return (a*a + b*b == c*c);
+}
 
+void main() {
+	int a,b,c;
+	a = 1;b = 1; c = 998;
+	while(c > b) {
+		while(b > a) {
+			if(check(a,b,c)) {
+				System.p(a);
+				System.p(b);
+				System.p(c);
+				System.p(a*b*c);
+			}
+			a += 1;
+			c -= 1;
+		}
+		b += 1;
+		c = c + a - 2;
+		a = 1;
+		assert(a+b+c==1000);
+	}
 }
 
 main();

@@ -11,8 +11,27 @@ Find the difference between the sum of the squares of the first one hundred natu
 */
 import("konoha");
 
+int sum_of_the_squares(int num) {
+	int i = 1;
+	int ans = 0;
+	while(i <= num) {
+		ans += i * i;
+		i += 1;
+	}
+	return ans;
+}
+int square_of_the_sum(int num) {
+	int i = 1;
+	int ans = 0;
+	while(i <= num) {
+		ans += i;
+		i += 1;
+	}
+	return ans * ans;
+}
 void main() {
-
+	System.p(square_of_the_sum(10) - sum_of_the_squares(10)); //=> 2640
+	System.p(square_of_the_sum(100) - sum_of_the_squares(100));
 }
 
 main();
