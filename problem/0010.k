@@ -8,11 +8,13 @@ Find the sum of all the primes below two million.
 
 */
 import("konoha.assign");
+import("konoha.float");
 import("konoha.while");
 import("konoha.break");
 
 void main() {
-    int sum = 2, i = 3, j = 2;
+    float sum = 2;
+    int  i = 3, j = 2;
 
     while(i <= 2000000) {
 //    while(i <= 10) {
