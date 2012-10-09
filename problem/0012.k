@@ -10,9 +10,39 @@ What is the value of the first triangle number to have over five hundred divisor
 
 */
 import("konoha");
+import("konoha.math");
 
+/* FIXME: This program takes too long time.*/
 void main() {
-
+	int max = 100000000;
+	int[] c = new int[max+1];
+	int i, j;
+	i = 1;
+	while (i <= max) {
+		c[i] = 1;
+		i += 1;
+	}
+	j = 2;
+	while (j <= max) {
+		i = j;
+		while (i <= max) {
+			c[i] += 1;
+			i += j;
+		}
+		j += 1;
+	}
+	i = 1;
+	j = 1;
+	while(c[j] < 500) {
+		i += 1;
+		j += i;
+		if(j >= c.size) {
+			System.p("break");
+			return;
+		}
+	}
+	System.p(j);
+	System.p(c[j]);
 }
 
 main();
