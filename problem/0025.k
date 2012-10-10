@@ -21,27 +21,35 @@ What is the first term in the Fibonacci sequence to contain 1000 digits?
 
 */
 import("konoha");
-import("konoha.math");
-
-int digit(float f){
-	return Math.log10(f) + 1;
-}
+import("gmp")
 
 void main() {
-	float fa = 1.0;
-	float fb = 1.0;
-	float fc = 2.0;
+	Mpz fa  = null; 
+	Mpz fb  = new Mpz("1");
+	Mpz fc  = new Mpz("2");
+	Mpz ret = null;
+	int limit = 1000;
 	int n = 3;
 
 	while(true){
 		fa = fb + fc; n += 1;
-		if(digit(fa) == 3){ break; }
+		if(fa.size == limit){
+			ret = fa;
+			break;
+		}
 		fb = fc + fa; n += 1;
-		if(digit(fb) == 3){ break; }
+		if(fb.size == limit){
+			ret = fb;
+			break;
+		}
 		fc = fa + fb; n += 1;
-		if(digit(fc) == 3){ break; }
+		if(fc.size == limit){
+			ret = fc;
+			break;
+		}
 	}
 	System.p(n);
+	System.p(ret);
 }
 
 main();
