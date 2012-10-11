@@ -7,9 +7,29 @@ What is the sum of the digits of the number 21000?
 
 */
 import("konoha");
+import("gmp");
+
+Mpz factorial(Mpz m, int n) {
+	int i = 1;
+	Mpz ret = m;
+	while(i < n) {
+		ret *= m;
+		i += 1;
+	}
+	return ret;
+}
 
 void main() {
-
+	Mpz m = new Mpz("2");
+	m = factorial(m,1000);
+	String str = m.toString();
+	int i = 0;
+	int ans = 0;
+	while(i < str.size) {
+		ans += str.charCodeAt(i) - 48;
+		i   += 1;
+	}
+	System.p(ans); //=> 1366
 }
 
 main();
