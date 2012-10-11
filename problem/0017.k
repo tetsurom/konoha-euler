@@ -7,8 +7,45 @@ NOTE: Do not count spaces or hyphens. For example, 342 (three hundred and forty-
 */
 import("konoha");
 
-void main() {
+String[] oneDigit = [ ""        , "one"     , "two"    ,"three",
+					"four"   ,"five"     ,"six"     ,"seven",
+					"eight"  ,"nine"     ,"ten"     ,"eleven",
+					"twelve" ,"thirteen" ,"fourteen","fifteen",
+					"sixteen","seventeen","eighteen","nineteen"];
 
+String[] twoDigits = [ "","ten" , "twenty" , "thirty" ,"forty", "fifty",
+						"sixty", "seventy", "eighty", "ninety"];
+
+String underTwenty(int n) {
+	return global.oneDigit[n];
+}
+
+String underHundred(int n) {
+	return global.twoDigits[n];
+}
+
+String toAlphabet(int n) {
+	if(n > 0 && n < 20) {            /*   1 - 19 */
+		return underTwenty(n);
+	} else if(n >= 20 && n < 100) {  /*  20 - 99 */
+		return underHundred(n / 10) + underTwenty(n % 10);
+	} else if(n%100 == 0) {
+		return underTwenty(n/100) + "hundred";
+	} else {                         /* 100 -999 */
+		return underTwenty(n/100) + "hundred" + "and" + toAlphabet(n%100);
+	}
+}
+
+void main() {
+	int i = 1;
+	int length = 11; //"one thousand"
+	while(i <= 999) {
+		System.p(toAlphabet(i));
+		System.p(toAlphabet(i).size);
+		length += toAlphabet(i).size;
+		i      += 1;
+	}
+	System.p(length);
 }
 
 main();
