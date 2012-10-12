@@ -10,8 +10,80 @@ Find the sum of all the positive integers which cannot be written as the sum of 
 */
 import("konoha");
 
-void main() {
+import("konoha.math")
 
+int d(int n){
+	if(n <= 1){
+		return 0;
+	}
+	int sum = 1;
+	int div_max = Math.sqrt(n);
+	if(div_max * div_max == n){
+		sum -= div_max;	
+	}
+	int div = 2;
+	while(div <= div_max){
+		if(n % div == 0){
+			sum += div;
+			sum += n / div;
+		}
+		div += 1;
+	}
+	return sum;
+}
+
+boolean isAbundant(int n){
+	return d(n) > n;
+}
+
+boolean judge(int[] abundants, int n){
+	int i = 0;
+	while(i < abundants.size){
+		int d = n - abundants[i];
+		if(d < 12){
+			return false;
+		}
+		if(isAbundant(d)){
+			return true;
+		}
+		i += 1;
+	}
+	return false;
+}
+
+int[] getAbundantList(int max){
+	if(max < 12){
+		return [];
+	}
+	int[] a = [12];
+	int n = 13;
+	while(n < max){
+		if(isAbundant(n)){
+			a.add(n);
+		}
+		n += 1;
+	}
+	return a;
+}
+
+void main() {
+	assert(d(28) == 28);
+	assert(d(12) == 16);
+	assert(isAbundant(12));
+	
+	int[] abundants = getAbundantList(28123);
+	assert(abundants[0] == 12);
+	assert(judge(abundants, 24));
+	
+	int sum = 0;
+	int n = 1;
+	while(n < 28123){
+		if(!judge(abundants, n)){
+			sum += n;
+		}	
+		n += 1;
+	}
+	System.p(sum);
 }
 
 main();
