@@ -7,9 +7,44 @@ For example, the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 a
 Evaluate the sum of all the amicable numbers under 10000.
 */
 import("konoha");
+import("konoha.math")
+
+int d(int n){
+	if(n <= 1){
+		return 0;
+	}
+	int sum = 1;
+	int div_max = Math.sqrt(n);
+	if(div_max * div_max == n){
+		sum += div_max;	
+	}
+	int div = 2;
+	while(div < div_max){
+		if(n % div == 0){
+			sum += div;
+			sum += n / div;
+		}
+		div += 1;
+	}
+	return sum;
+}
+
+boolean isAmicable(int n){
+	return d(n) != n && d(d(n)) == n;
+}
 
 void main() {
-
+	assert(isAmicable(220));
+	assert(isAmicable(284));
+	int sum = 0;
+	int n = 1;
+	while(n <= 10000){
+		if(isAmicable(n)){
+			sum += n;
+		}
+		n += 1;
+	}
+	System.p(sum);
 }
 
 main();
