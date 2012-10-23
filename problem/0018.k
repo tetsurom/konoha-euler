@@ -26,31 +26,53 @@ NOTE: As there are only 16384 routes, it is possible to solve this problem by tr
 */
 import("konoha");
 import("konoha.array");
+import("konoha.new");
+import("konoha.assign");
+import("cstyle");
 
-int[][] makeAdjMatrix(int[][] data){
-	int[][] adjmat = [[0]];
-	int n = data.size;
+int max(int a, int b){
+	if(a > b){
+		return a;
+	}
+	return b;
+}
+int max(int[] a){
 	int i = 0;
-	while(i < n){
-		adjmat.add(new int[](n));
-		i += 1;
-	}
-	i = 0;
-	while(i < n - 1){
-		int j = 0;
-		while(j < data[i].size){
-			adjmat[i*n+j][(i+1)*n+j]     = data[i+1][j];
-			adjmat[i*n+j][(i+1)*n+(j+1)] = data[i+1][j];
-			j += 1;
+	int max = a[0];
+	while(i < a.size){
+		if(max < a[i]){
+			max = a[i];
 		}
-		i += 1;
+		i = i + 1;
 	}
-	return adjmat;
+	return max;
+}
+
+int solve(int[][] data){
+	int h = data.size;
+	int i = 1;
+	while(i < h){
+		int[] upper = data[i-1];
+		int[] low   = data[i];
+		int w = low.size;
+		low[0]   = low[0]   + upper[0];
+		low[w-1] = low[w-1] + upper[w-2];
+		int j = 1;
+		while(j < w - 1){
+			int fromR = low[j] + upper[j];
+			int fromL = low[j] + upper[j-1];
+			low[j] = max(fromR, fromL);
+			j = j + 1;
+		}
+		i = i + 1;
+	}
+	return max(data[h - 1]);
 }
 
 void main() {
 	int[][] data0 = [[3],[7,4],[2,4,6],[8,5,9,3]];
-	int[][] data1 = [[75],
+	int[][] data1 = [
+	[75],
 	[95, 64],
 	[17, 47, 82],
 	[18, 35, 87, 10],
@@ -65,7 +87,8 @@ void main() {
 	[91, 71, 52, 38, 17, 14, 91, 43, 58, 50, 27, 29, 48],
 	[63, 66, 04, 68, 89, 53, 67, 30, 73, 16, 69, 87, 40, 31],
 	[04, 62, 98, 27, 23, 09, 70, 98, 73, 93, 38, 53, 60, 04, 23]];
-	System.p(makeAdjMatrix(data0));
+	assert(solve(data0) == 23);
+	assert(solve(data1) == 1074);
 }
 
 main();
