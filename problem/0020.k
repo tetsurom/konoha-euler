@@ -7,10 +7,10 @@
 
 */
 import("konoha.assign");
-import("konoha.while");
-import("konoha.break");
+import("konoha.class");
+import("konoha.new");
 import("konoha.array");
-import("konoha");
+import("cstyle");
 import("gmp")
 
 Mpz fact(int n){
@@ -29,7 +29,7 @@ void main() {
 		sum += f100 % 10;
 		f100 /= 10;	
 	}
-    System.p(sum);
+    assert(sum == 648);
 }
 
 main();

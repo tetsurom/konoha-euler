@@ -6,7 +6,8 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 */
 
-import("konoha")
+import("konoha.assign")
+import("cstyle")
 
 int p1(int limit){
 	int m = 0;
@@ -21,10 +22,6 @@ int p1(int limit){
 }
 
 
-int main(){
-	//System.p(p1(10)); -> 23
-	System.p(p1(1000));
-}
-
-main();
+//System.p(p1(10)); -> 23
+System.p(p1(1000));
 

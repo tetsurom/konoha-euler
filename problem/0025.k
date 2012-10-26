@@ -20,7 +20,11 @@ The 12th term, F12, is the first term to contain three digits.
 What is the first term in the Fibonacci sequence to contain 1000 digits?
 
 */
-import("konoha");
+import("konoha.class");
+import("konoha.new");
+import("konoha.assign");
+import("konoha.null");
+import("cstyle");
 import("gmp")
 
 void main() {
@@ -33,23 +37,22 @@ void main() {
 
 	while(true){
 		fa = fb + fc; n += 1;
-		if(fa.size == limit){
+		if(fa.size == limit) {
 			ret = fa;
 			break;
 		}
 		fb = fc + fa; n += 1;
-		if(fb.size == limit){
+		if(fb.size == limit) {
 			ret = fb;
 			break;
 		}
 		fc = fa + fb; n += 1;
-		if(fc.size == limit){
+		if(fc.size == limit) {
 			ret = fc;
 			break;
 		}
 	}
-	System.p(n);
-	System.p(ret);
+	assert(n == 4782);
 }
 
 main();

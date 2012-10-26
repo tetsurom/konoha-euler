@@ -6,7 +6,11 @@ http://projecteuler.net/problem=16
 What is the sum of the digits of the number 21000?
 
 */
-import("konoha");
+import("konoha.class");
+import("konoha.new");
+import("konoha.assign");
+import("konoha.string");
+import("cstyle");
 import("gmp");
 
 Mpz factorial(Mpz m, int n) {
@@ -29,7 +33,7 @@ void main() {
 		ans += str.charCodeAt(i) - 48;
 		i   += 1;
 	}
-	System.p(ans); //=> 1366
+	assert(ans == 1366); //=> 1366
 }
 
 main();

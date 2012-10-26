@@ -5,11 +5,14 @@ http://projecteuler.net/problem=13
 Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
 
 */
-import("konoha");
+import("konoha.class");
+import("konoha.assign");
+import("konoha.new");
+import("konoha.string");
 import("gmp")
 
 void main() {
-	Mpz sum = new Mpz(0);
+	Mpz sum = 0;
 	sum = sum + "37107287533902102798797998220837590246510135740250".toMpz();
 	sum = sum + "46376937677490009712648124896970078050417018260538".toMpz();
 	sum = sum + "74324986199524741059474233309513058123726617309629".toMpz();
@@ -112,7 +115,6 @@ void main() {
 	sum = sum + "53503534226472524250874054075591789781264330331690".toMpz();
 
 	String answer = sum.toString().substr(0, 10); 
-	System.p(answer);
 	assert(answer == "5537376230");
 }
 

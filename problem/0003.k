@@ -9,27 +9,28 @@ What is the largest prime factor of the number 600851475143 ?
 
 
 import("konoha.assign");
-import("konoha.while");
+import("cstyle");
 import("konoha.math");
+import("gmp");
 
 
 int divid() {
-    int i = 2, max = 0, tmp, counter = 0;
-    int number = 600851475143;
-//    int number = 13195;
-    int r = Math.sqrt(number);
+	int i = 2, max = 0, tmp, counter = 0;
+	Mpz number = "600851475143".toMpz();
+	
+	int r = Math.sqrt(number.toint());
 
-    while(i != r) {
-	if((tmp = number % i) == 0) {
-//	    System.p(max);
-	    max = i;
-	    while((number % i) == 0) {
-		number = number / i;
-	    }
+	while(i != r) {
+		if((tmp = number % i) == 0) {
+			max = i;
+			while((number % i) == 0) {
+				number = number / i;
+			}
+		}
+		i += 1;
 	}
-	i += 1;
-    }
-    return max;
+	return max;
 }
 
-System.p(divid()); //-> 6857
+assert(divid() == 6857); //-> 6857
+

@@ -7,7 +7,10 @@ Starting in the top left corner of a 2^2 grid, there are 6 routes (without backt
 How many routes are there through a 20^20 grid?
 
 */
-import("konoha");
+import("cstyle");
+import("konoha.class");
+import("konoha.new");
+import("konoha.assign");
 import("gmp")
 
 Mpz fact(int n){
