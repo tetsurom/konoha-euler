@@ -16,8 +16,40 @@ How many Sundays fell on the first of the month during the twentieth century (1 
 */
 import("konoha");
 
-void main() {
+boolean isLeapYear(int year){
+	return year % 4 == 0 && (year % 1000 != 0 || year % 400 == 0)
+}
 
+int getDaysOfMonth(int month, int year){
+	if(month == 4 || month == 6 || month == 9 || month == 11){
+		return 30;
+	}
+	if(month == 2){
+		if(isLeapYear(year)){
+			return 29;
+		}
+		return 28;
+	}
+	return 31;
+}
+
+void main() {
+	int answer = 0;
+	int y = 1901;
+	int m = 1;
+	int weekday = 2;
+	while(y < 2001){
+		int m = 1;
+		while(m <= 12){
+			if(weekday == 0){
+				answer = answer + 1;
+			}
+			weekday = (weekday + getDaysOfMonth(m, y)) % 7;
+			m = m + 1;
+		}
+		y = y + 1;
+	}
+	assert(answer == 171);
 }
 
 main();
